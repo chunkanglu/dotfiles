@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/datguykenkai/.config/wpg/wallpapers/yun7hx8afhn61.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1e172a",
+        "foreground": "#e1e6f5",
+        "cursor": "#e1e6f5"
+    },
+    "colors": {
+        "color0": "#1e172a",
+        "color1": "#7A92D6",
+        "color2": "#AA96C1",
+        "color3": "#8EAEF5",
+        "color4": "#A0A6E0",
+        "color5": "#9EC1FD",
+        "color6": "#B0C9FD",
+        "color7": "#e1e6f5",
+        "color8": "#9da1ab",
+        "color9": "#7A92D6",
+        "color10": "#AA96C1",
+        "color11": "#8EAEF5",
+        "color12": "#A0A6E0",
+        "color13": "#9EC1FD",
+        "color14": "#B0C9FD",
+        "color15": "#e1e6f5"
+    }
+}

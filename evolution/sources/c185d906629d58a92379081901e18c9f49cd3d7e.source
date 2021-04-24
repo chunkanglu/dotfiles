@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=chunkanglu@gmail.com
+Enabled=true
+Parent=6b22949701a6c2c03c90df0902603141c9305e68
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=376b4543f953fe4dba437a48ae3a4325afb4a50d
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=chunkanglu@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

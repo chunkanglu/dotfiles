@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/datguykenkai/.config/wpg/wallpapers/ILb6j1i.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2e3449",
+        "foreground": "#e2ffff",
+        "cursor": "#e2ffff"
+    },
+    "colors": {
+        "color0": "#2e3449",
+        "color1": "#9e8abd",
+        "color2": "#ffa1b8",
+        "color3": "#ffc8c5",
+        "color4": "#a2f0f5",
+        "color5": "#f07fbc",
+        "color6": "#86dad5",
+        "color7": "#cbffff",
+        "color8": "#414967",
+        "color9": "#cd9eff",
+        "color10": "#ffabd4",
+        "color11": "#ffcac4",
+        "color12": "#b1ffff",
+        "color13": "#ff8df6",
+        "color14": "#97ffff",
+        "color15": "#e2ffff"
+    }
+}
